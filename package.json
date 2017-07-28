@@ -1,0 +1,14 @@
+{
+  "name": "cgvcrawler",
+  "version": "1.0.0",
+  "description": "cgv crawler to check Dunkirk is opened in Yongsan Cgv Imax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gimochi",
+  "license": "ISC",
+  "dependencies": {
+    "phantom": "^4.0.5"
+  }
+}
